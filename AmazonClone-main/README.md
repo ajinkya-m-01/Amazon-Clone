@@ -68,4 +68,4 @@ Thank you for exploring my Amazon Homepage Replication Project! This project has
 Feel free to dive into the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
 
 <br>
-<p>Regards From Tejas Patil</p>
+
